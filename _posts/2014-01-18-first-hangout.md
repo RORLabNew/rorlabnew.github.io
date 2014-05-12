@@ -1,5 +1,9 @@
 ---
 published: true
+layout: post
+title: 첫 번째 리뉴얼 행아웃
+date: {}
+categories: post
 ---
 
 ## 2014년 1월 18일 토요일
