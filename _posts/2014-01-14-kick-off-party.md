@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 킥오프 파티
 date: {}
@@ -105,6 +105,4 @@ categories: post
 (흠..단점은 Safari Developer 등록을 해야한다네요)
 https://zeropush.com/blog/implementing-safari-push-notifications-in-osx-mavericks
 
-2. RoRlab의 운영에 도움을 줄 수 있는 기부 공간 
-
-
+2. RoRlab의 운영에 도움을 줄 수 있는 기부 공간
