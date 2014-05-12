@@ -1,7 +1,7 @@
 ---
-published: true
 layout: post
-date: {}
+title:  "facebook!"
+date:   2014-01-08 01:04:34
 categories: jekyll update
 ---
 
