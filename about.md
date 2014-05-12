@@ -13,8 +13,6 @@ ROR Lab.이 시작된지 언 2년이 지났습니다. 그동안 사용하던, �
 
 ROR Lab.의 공유정신은 웹사이트 리뉴얼에도 그대로 이어져 누구나 참여할 수 있는 공개 프로젝트로 진행하고자 합니다.
 
-##어떻게 참여하는가?
-=======
 [Wiki](https://github.com/RORLabNew/rorla_api/wiki)
 
 Facebook [루비 온 레일즈 코리아(비공개)](https://www.facebook.com/groups/rubyonrailskorea), [리뉴얼(비공개)](https://www.facebook.com/groups/rorlabrenewal)
