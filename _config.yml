@@ -1,9 +1,11 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: ROR Lab Renewal Project Team Blog
+email: hschoidr@gmail.com
+description: "ROR Lab. 웹사이트 리뉴얼 오픈 소스 프로젝트의 팀블로그입니다."
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://http://rorlabnew.github.io/"
+github: "RORLabNew/rorla_api"
+facebook: "groups/rorlabrenewal/"
 
 # Build settings
 markdown: kramdown
