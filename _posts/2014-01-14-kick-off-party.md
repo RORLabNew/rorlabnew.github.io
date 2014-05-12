@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 킥오프 파티
-date: {}
+date: 2014-01-14 01:04:34
 categories: post
 ---
 
