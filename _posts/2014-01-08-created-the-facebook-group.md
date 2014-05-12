@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "facebook!"
+title:  "페이스북 그룹을 만들다"
 date:   2014-01-08 01:04:34
-categories: jekyll update
+categories: post
 ---
 
 ## 페이스북 그룹을 만들다.
