@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 첫 번째 리뉴얼 행아웃
-date: {}
+date: 2014-01-18
 categories: post
 ---
 
