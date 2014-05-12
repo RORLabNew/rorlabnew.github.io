@@ -5,8 +5,7 @@ permalink: /about/
 published: true
 ---
 
-RORLa-API (로라 API)
--------
+## RORLa-API (로라 API)
 
 : ROR Lab. 웹사이트 리뉴얼 공개 프로젝트
 
@@ -18,8 +17,7 @@ ROR Lab.의 공유정신은 웹사이트 리뉴얼에도 그대로 이어져 누
 
 Facebook [루비 온 레일즈 코리아(비공개)](https://www.facebook.com/groups/rubyonrailskorea), [리뉴얼(비공개)](https://www.facebook.com/groups/rorlabrenewal)
 
-Development Stack
--------
+## Development Stack
 
 * Back-end
   *  Rails API
@@ -30,15 +28,14 @@ Development Stack
   * iphone App for Apple Device
 
 
-Collaboration Tools
-------
+## Collaboration Tools
 
 * [Github](https://github.com/RORLabNew/rorla_api)
 * [Waffle.io](https://waffle.io/RORLabNew/rorla_api)
 * [Slack](http://rorlab.slack.com)
 
-"RORLa" Open Source Project에 기여하기
-----
+## "RORLa" Open Source Project에 기여하기
+
 "로라" 오픈소스 프로젝트는 ROR Lab. 공식 웹사이트(http://rorlab.org)의 renewal 프로젝트로 레일스 프레임워크를 이용하여 API를 만드는 것을 첫번째 목표로 하고 있습니다.
 
 여러분의 참여를 유도하기 위해서 오픈소스 프로젝트로 진행하고 있으며 중간에 기여하는 분들이 쉽게 참여할 수 있도록 지침서를 마련할 필요가 있어 이 문서를 작성합니다.
@@ -57,8 +54,7 @@ Collaboration Tools
 6. 별도의 작업과정을 구분하고 싶을 때는 로컬머신에서 별도의 `git` 브랜치를 만들어 작업하고 후에 본인의 `PR`이 머지될 경우, 작업하고 있는 별도의 브랜치를 머지하면 될 것입니다.
 6. 본인이 요청한 `PR`을 최종적으로 철회하고자 한다면 페이지 하단에 있는 `Close` 버튼을 클릭하면 됩니다.
 
-TDD with RSpec
----
+## TDD with RSpec
 
 오픈소스 프로젝트로 진행되는 만큼 소스의 검증과정이 필수적입니다. 최근에는 이러한 테스트 환경을 쉽게 구축할 수 있어 보다 견고한 어플리케이션을 작성할 수 있습니다.
 
@@ -94,6 +90,6 @@ group :test do
 end
 ```
 
-Donation
-------
+## Donation
+
 * ROR Lab.의 지식공유 운동에 동참하기를 원하시는 분은 [여기](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=donate%40rorlab%2eorg&lc=KR&item_name=ROR%20Lab%2e&item_number=1&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)로 기부할 수 있습니다.
