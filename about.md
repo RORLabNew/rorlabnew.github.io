@@ -17,7 +17,10 @@ published: true
 - 프로그램 실습 모임 : 격주로 진행되며 [페이스북 그룹(ROR Lab Renewal)](https://www.facebook.com/groups/rorlabrenewal/)에 이벤트로 공지가 올라 갑니다. 
 - [Gitbook](http://rorlabgitbook.github.io/rorlabnew_guide) : 협업하는데 필요한 안내문과 기술문서를 정리한 책입니다.
 
-## 참여
-- 본 프로젝트는 온오프로 진행되며 누구나 참여할 수 있습니다. 
+## 기여하기
+- 본 프로젝트는 온오프로 진행되며 누구나 참여하고 기여할 수 있습니다.
 - 저장소 관리는 각자 `fork`한 후에 개인 저장소를 `Pull Request`하는 방식으로 진행합니다. 
 - 저장소의 머지작업은 당분간 [ROR Lab. 운영자 1인](mailto:rorlab@gmail.com)이 진행합니다.
+
+## wiki
+- [개발에 도움이 되는 자료 모음](https://github.com/RORLabNew/rorla_api/wiki/%EA%B0%9C%EB%B0%9C%EC%97%90-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%9E%90%EB%A3%8C-%EB%AA%A8%EC%9D%8C)
