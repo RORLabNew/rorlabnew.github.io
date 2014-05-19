@@ -8,5 +8,5 @@ github: "RORLabNew/rorla_api"
 facebook: "groups/rorlabrenewal/"
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 permalink: pretty
