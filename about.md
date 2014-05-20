@@ -23,4 +23,4 @@ published: true
 - 저장소의 머지작업은 당분간 [ROR Lab. 운영자 1인](mailto:rorlab@gmail.com)이 진행합니다.
 
 ## 위키
-- [개발에 도움이 되는 자료 모음](https://github.com/RORLabNew/rorla_api/wiki/%EA%B0%9C%EB%B0%9C%EC%97%90-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%9E%90%EB%A3%8C-%EB%AA%A8%EC%9D%8C)
+로라 API에 더 자세한 사항을 알고 싶다면 [위키](https://github.com/RORLabNew/rorla_api/wiki)를 참고하시기 바랍니다.
