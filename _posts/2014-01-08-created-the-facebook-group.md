@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 페이스북 그룹을 만들다
-date: {}
+date: 2014-01-08
 categories: post
 published: true
 ---
