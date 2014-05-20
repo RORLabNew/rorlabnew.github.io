@@ -1,5 +1,5 @@
 # Site settings
-title: ROR Lab Renewal Project Team Blog
+title: RORLa-API Team Blog
 email: hschoidr@gmail.com
 description: "ROR Lab. 웹사이트 리뉴얼 오픈 소스 프로젝트의 팀블로그입니다."
 baseurl: ""
@@ -8,5 +8,5 @@ github: "RORLabNew/rorla_api"
 facebook: "groups/rorlabrenewal/"
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 permalink: pretty
