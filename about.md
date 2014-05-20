@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-이 블로그는 ROR Lab 리뉴얼 프로젝트의 과정을 시간순으로 정리한 것으로 팀원이면 누구나 쓸 수 있고 수정할 수 있습니다. [jeckll](http://jekyllrb.com/)로 만들었으며 [prose.io](http://prose.io/)를 이용하면 온라인으로 편집할 수 있습니다.
+이 블로그는 ROR Lab 리뉴얼 프로젝트의 과정을 시간순으로 정리한 것으로 팀원이면 누구나 쓸 수 있고 수정할 수 있습니다. [jekyll](http://jekyllrb.com/)로 만들었으며 [prose.io](http://prose.io/)를 이용하면 온라인으로 편집할 수 있습니다.
 
 ## RORLa-API (로라 API)
 로라 API는 ROR Lab. 웹사이트 리뉴얼 공개 프로젝트 이름입니다. 저장소는 github을 사용하며 위치는 [https://github.com/RORLabNew/rorla_api](https://github.com/RORLabNew/rorla_api)입니다. 백-엔드는 rails API로 개발하며 프론트-엔드는 AngularJS를 사용합니다. 추후에는 안드로이드와 아이폰 앱도 구현할 예정입니다.
