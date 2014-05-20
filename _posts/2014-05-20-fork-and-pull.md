@@ -1,5 +1,8 @@
 ---
 published: true
+layout: post
+date: 20140520
+categories: post
 ---
 
 ## A New Post
