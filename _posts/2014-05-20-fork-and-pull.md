@@ -1,10 +1,10 @@
 ---
 published: true
 layout: post
-title: "RORLa-API에 참여하는 방법"
-date: 20140520
+title: Github Forking to Pull Request
+date: 2014-01-20
 categories: post
-author: 박유진
+author: 최효성
 ---
 
 * github 웹사이트를 방문해서 본인의 계정으로 로그인합니다.
