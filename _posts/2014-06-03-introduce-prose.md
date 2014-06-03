@@ -15,9 +15,9 @@ author: 박유진
 ## prose.io 사용방법
 ![prose_home.jpg](/images/prose_home.jpg)
 
-* ![prose.io](http://prose.io) 사이트 접속
+* [prose.io](http://prose.io) 사이트 접속
 * github 계정으로 로그인 (AUTHORIZE ON GITHUB 클릭)
-* 그룹 선택 후 프로젝트 선택 ![URL](http://prose.io/#RORLabNew/rorlabnew.github.io)
+* 그룹 선택 후 프로젝트 선택 [http://prose.io/#RORLabNew/rorlabnew.github.io](http://prose.io/#RORLabNew/rorlabnew.github.io)
 * 포스트 작성(New File 클릭)
 * 파일 이름과 내용을 작성
 * 이미지 업로드는 본문에 드래그 앤 드롭함
