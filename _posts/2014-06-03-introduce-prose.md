@@ -16,7 +16,6 @@ published: true
 * 그룹 선택(RORLabNew)
 * 프로젝트 선택(rorlabnew.github.io)
 * 포스트 작성(New File)
-![prose_new_file.jpg](/images/prose_new_file.jpg)
 * 파일 이름(날짜와 영문제목조합)과 내용을 작성
 * 이미지 업로드는 본문영역에 드래그 앤 드롭
 * 저장(오른쪽 맨아래에 저장 아이콘)
