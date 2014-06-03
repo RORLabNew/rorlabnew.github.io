@@ -1,6 +1,10 @@
 ---
-layout: post
 published: true
+layout: post
+title: Introduce prose.io
+date: 2014-01-20
+categories: post
+author: 박유진
 ---
 
 ## 팀블로그를 만든 이유
@@ -11,7 +15,8 @@ published: true
 
 ## prose.io 사용방법
 ![prose_home.jpg](/images/prose_home.jpg)
-+ prose.io 사이트 접속(http://prose.io)
+
+* prose.io 사이트 접속(http://prose.io)
 * github 계정으로 로그인(AUTHORIZE ON GITHUB)
 * 그룹 선택(RORLabNew)
 * 프로젝트 선택(rorlabnew.github.io)
