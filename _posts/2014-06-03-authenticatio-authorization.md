@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 
 ## 사용자 인증 및 권한 설정
