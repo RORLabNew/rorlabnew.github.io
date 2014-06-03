@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Introduce prose.io
-date: {}
+date: 2014-06-03
 author: 박유진
 ---
 
