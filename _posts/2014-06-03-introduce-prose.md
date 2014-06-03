@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 
 ## 팀블로그를 만든 이유
