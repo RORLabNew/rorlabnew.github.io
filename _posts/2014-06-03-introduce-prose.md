@@ -10,7 +10,10 @@ published: false
 우리는 팀블로그 시스템이 마크다운을 지원하며 깃허브에 호스팅할 수 있기를 바랬습니다. 하지만 포크 앤 풀리퀘스트의 번거로움을 줄이고 싶었습니다. 그래서 찾은 것이 prose.io입니다. prose.io는 지킬(jekyll)과 연동하여 브라우저를 통해 포스팅 할 수 있습니다.
 
 ## prose.io 사용방법
-
+![prose_home.jpg](/images/prose_home.jpg)
+- prose.io 사이트 접속
+- github 계정으로 로그인(AUTHORIZE ON GITHUB)
+- 저장소 선택()
 
 
 ## 
