@@ -16,7 +16,7 @@ prose:
   rooturl: '_posts'
   siteurl: 'http://http://rorlabnew.github.io/'
   relativeLinks: ''
-  media: 'media'
+  media: 'images'
   metadata:
     _posts:
       - name: "layout"
