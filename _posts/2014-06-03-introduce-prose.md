@@ -13,11 +13,10 @@ published: false
 ![prose_home.jpg](/images/prose_home.jpg)
 - prose.io 사이트 접속
 - github 계정으로 로그인(AUTHORIZE ON GITHUB)
-- 저장소 선택()
-
-
-## 
-
-
-
-
+- 그룹 선택(RORLabNew)
+- 프로젝트 선택(rorlabnew.github.io)
+- 포스트 작성(New File)
+![prose_new_file.jpg](/images/prose_new_file.jpg)
+- 파일 이름과 내용을 작성
+- 이미지를 업로드 하려면 업로드할 이미지를 본문영역에 드래그 앤 드롭
+##
