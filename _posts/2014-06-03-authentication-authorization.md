@@ -15,6 +15,8 @@ published: true
 
 권한 로직을 모델별로 분산하여 구현할 수 있다. 3가지 정도의 구현 전략으로 분류해 볼 수 있다. 
 
+![](http://i1373.photobucket.com/albums/ag392/rorlab/Photobucket%20Desktop%20-%20RORLAB/exploring_devise/authority_strategy_zpsa6415ee4.png)
+
 
 
 
