@@ -17,9 +17,15 @@ published: true
 
 ![](http://i1373.photobucket.com/albums/ag392/rorlab/Photobucket%20Desktop%20-%20RORLAB/exploring_devise/authority_strategy_zpsa6415ee4.png)
 
+## Authority 젬을 이용한 실전 코딩
 
+시나리오의 작성
 
-
+1. Foundation 젬을 설치하여 뷰 템브릿을 디자인한다.
+2. Simple_form 젬을 설치하여 셋업한다. 
+3. Devise 젬을 설치하여 회원인증 시스템을 구현한다. 
+4. Rolify 젬을 설치한다.
+5. Authority 젬을 설치한다. 
 
 
 
