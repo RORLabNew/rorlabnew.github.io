@@ -6,6 +6,7 @@ baseurl: ""
 url: "http://http://rorlabnew.github.io/"
 github: "RORLabNew/rorla_api"
 facebook: "groups/rorlabrenewal/"
+proseio: "http://prose.io/#RORLabNew/rorlabnew.github.io/"
 
 # Build settings
 markdown: redcarpet
