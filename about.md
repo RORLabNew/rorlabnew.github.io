@@ -15,7 +15,7 @@ published: true
 - Online Chatting Tools : [rorlab.slack.com](http://rorlab.slack.com) (가입을 원하시는 분은 이름과 이메일, 그리고 자신에 대한 간단히 소개를 admin@rorlab.org로 보내주시기 바랍니다.)
 - 이슈관리는 gihub를 적극적으로 이용하며 이슈관리의 시각적인 편의성을 위해서 [waffle.io](https://waffle.io/RORLabNew/rorla_api)(오픈소스는 무료)를 병행해서 사용하겠습니다. 
 - 프로그램 실습 모임 : 격주로 진행되며 [페이스북 그룹(ROR Lab Renewal)](https://www.facebook.com/groups/rorlabrenewal/)에 이벤트로 공지가 올라 갑니다. 
-- [Gitbook](http://rorlabgitbook.github.io/rorlabnew_guide) : 협업하는데 필요한 안내문과 기술문서를 정리한 책입니다.
+- [Gitbook](https://www.gitbook.io/book/rorlab/rorla) : 협업하는데 필요한 안내문과 기술문서를 정리한 책입니다.
 
 ## 기여하기
 - 본 프로젝트는 온오프로 진행되며 누구나 참여하고 기여할 수 있습니다.
