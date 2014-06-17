@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 
 ## RORLa : 레일스 풀스택 프로젝트
@@ -19,5 +19,4 @@ Job descriptions :
 * 임영수/김성준님 : Q&A 뷰 페이지 작성
 * 홍순상님 : ReadingLater 웹페이지 스크랩 구현하기
 * 박유진님 : 페이스북 연동 이벤트 구현하기
-* 최효성님 : 즐겨찾기 카데고리리 구현하기 
-
+* 최효성님 : 즐겨찾기 카데고리리 구현하기
