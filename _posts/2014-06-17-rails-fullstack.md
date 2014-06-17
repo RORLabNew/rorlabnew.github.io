@@ -10,7 +10,7 @@ published: true
 
 **Github 저장소**
 
-https://github.com/RORLabNew/rorla
+[https://github.com/RORLabNew/rorla](https://github.com/RORLabNew/rorla)
 
 Job descriptions :
 
