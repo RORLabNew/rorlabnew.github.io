@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 
 ## 프로그래밍 실습 모임
@@ -12,4 +12,4 @@ published: false
 정창훈님은 도커로 배포하는데 사용할 수 있는 젬을 만들었고 도커로 배포한 사이트도 볼 수 있습니다. 아래 주소를 참고해주세요.
 - [http://rorla.rorlab.org/](http://rorla.rorlab.org/): 최근 소스를 반영한 결과를 바로 볼 수 있습니다. 
 - [https://registry.hub.docker.com/u/rorla/rorla/](https://registry.hub.docker.com/u/rorla/rorla/): 도커 허브에 가면 최근 이미지를 내려 받을 수 있습니다.
-- [https://rubygems.org/gems/docker_alias](https://rubygems.org/gems/docker_alias): 정창훈님의 젬입니다. 많이 내려 받아주세요. 
+- [https://rubygems.org/gems/docker_alias](https://rubygems.org/gems/docker_alias): 정창훈님의 젬입니다. 많이 내려 받아주세요.
